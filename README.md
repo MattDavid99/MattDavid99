@@ -1,6 +1,49 @@
-### Hi there 👋
+### 🧑‍💻 About Me :
+<br>
+ 
+- ⚡ I'm a software engineer out of Naples, Florida.
+- 🌱 I’m currently learning Java
+- 🤝 I’m open to new opportunities
+- 📫 How to reach me: mattdavid37@gmail.com or my LinkedIn down below
 
-[![Matthew David's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattDavid99&theme=gruvbox&show_icons=true)](https://github.com/MattDavid99)
+  <br>
+  <br>
+  
+<!--  hyperlink badges  -->
+<div id='badges' style='text-align:center;'>
+  <a href='https://www.linkedin.com/in/matthew-david-b58a49189/'>
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<br>
+<br>
+
+### 🛠️ Skills :
+<div style='text-align:center;'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="75" height="75"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="75" height="75"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="75" height="75"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="75" height="75"/>&nbsp;
+        <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title='Python' alt='Python' width='75' height='75'/>&nbsp;
+        <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg' title='Flask' alt='Flask' width='75' height='75'/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="75" height="75"/>&nbsp;
+        <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' title='Express' alt='Express' width='75' height='75'/>&nbsp;
+        <img src='https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg' title='SQLAlchemy' alt='SQLA' width='75' height='75' />&nbsp;
+        <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg' title='Postgres' alt='Postgres' width='75' height='75'/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="75" height="75"/>&nbsp;
+        <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' title='AWS' alt='AWS' width='75' height='75'/>&nbsp;
+        <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' title='Git' alt='Git' width='75' height='75' />&nbsp;
+  </div>
+
+  <br>
+  <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MattDavid99&theme=gruvbox&show_icons=true" alt="Matthew David's GitHub stats" />
+
+
+
 
 <!--
 **MattDavid99/MattDavid99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
