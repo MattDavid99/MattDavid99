@@ -35,8 +35,8 @@
         <img src='https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg' title='SQLAlchemy' alt='SQLA' width='75' height='75' />&nbsp;
         <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg' title='Postgres' alt='Postgres' width='75' height='75'/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite"  alt="Sqlite" width="75" height="75"/>&nbsp;
-        <img src="https://www.govconwire.com/wp-content/uploads/2018/03/AWS-EM-1.jpg" alt="aws" width="70" height="75"/> 
         <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' title='Git' alt='Git' width='75' height='75' />&nbsp;
+        <img src="https://www.govconwire.com/wp-content/uploads/2018/03/AWS-EM-1.jpg" alt="aws" width="70" height="75"/> 
         <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' title='Express' alt='Express' width='75' height='75'/>&nbsp;
   </div>
 
