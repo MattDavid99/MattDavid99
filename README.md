@@ -30,13 +30,13 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="75" height="75"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="75" height="75"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="75" height="75"/>&nbsp;
+        <img src="https://user-images.githubusercontent.com/92463844/162601723-beb79065-3555-4c2d-86c1-37d914e6d7ae.png" alt="flask" width ="75" height="75"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" alt="Sequelize" width="75" height="75"/>&nbsp;
         <img src='https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg' title='SQLAlchemy' alt='SQLA' width='75' height='75' />&nbsp;
         <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg' title='Postgres' alt='Postgres' width='75' height='75'/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite"  alt="Sqlite" width="75" height="75"/>&nbsp;
-        <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' title='AWS' alt='AWS' width='75' height='75'/>&nbsp;
+        <img src="https://www.govconwire.com/wp-content/uploads/2018/03/AWS-EM-1.jpg" alt="aws" width="70" height="75"/> 
         <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' title='Git' alt='Git' width='75' height='75' />&nbsp;
-        <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg' title='Flask' alt='Flask' width='75' height='75'/>&nbsp;
         <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' title='Express' alt='Express' width='75' height='75'/>&nbsp;
   </div>
 
