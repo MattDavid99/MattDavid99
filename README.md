@@ -2,8 +2,6 @@
 ### 🧑‍💻 About Me :
 
 - ⚡ I'm a software engineer out of Naples, Florida.
-- 🌱 I’m currently learning Java
-- 🤝 I’m open to new opportunities
 - 📫 How to reach me: mattdavid37@gmail.com or my LinkedIn down below
 
   <br>
