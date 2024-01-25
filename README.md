@@ -3,7 +3,6 @@
 
 - ⚡ I'm a software engineer out of Naples, Florida.
 - 📫 How to reach me: mattdavid37@gmail.com or my LinkedIn down below
-
   <br>
   
 <!--  hyperlink badges  -->
